@@ -280,6 +280,22 @@ ul#nav li.current a { color: #F06000; }
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
+#resume .certInfo {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /* color: #6E7881; */
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#resume .certInfo span {
+   margin-right: 5px;
+   color: #6E7881;
+   margin-left: 5px;
+}
+#resume .certDate {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   color: #6E7881;
+   margin-top: 6px;
+}
 
 /*----------------------------------------------*/
 /*	Skill Bars
