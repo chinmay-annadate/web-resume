@@ -50,15 +50,18 @@ header:before {
 header .banner {
    display: inline-block;
    vertical-align: middle;
+   background-color: rgba(0, 0, 0, 0.4);
+   border-radius: 2em;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;
+   padding: 30px 0px;
+   /* padding-bottom: 30px; */
    text-align: center;
 }
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 20px/1.1em 'opensans-bold', sans-serif ;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
@@ -66,7 +69,7 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   color: #f5f4f4;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -130,7 +133,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'opensans-bold', sans-serif;
+   font: 14px 'opensans-bold', sans-serif;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -252,7 +255,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume h1 span {
    border-bottom: 3px solid #11ABB0;
-   padding-bottom: 6px;
+   padding-bottom: 1px;
 }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
@@ -285,6 +288,10 @@ ul#nav li.current a { color: #F06000; }
    /* color: #6E7881; */
    margin-bottom: 18px;
    margin-top: 9px;
+}
+#resume .certInfo span {
+   margin-right: 5px;
+   margin-left: 5px;
 }
 #resume .certInfo span {
    margin-right: 5px;

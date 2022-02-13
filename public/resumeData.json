@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Chinmay Annadate",
-    "occupation": "Developer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation": "developer",
+    "description": "currently pusuing an B. Tech degree in Computer Science and Engineering + Honors in Machine Learning and Artificial Intelligence from Walchand Institute of Technology, Solapur",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "CSE Undergrad",
     "contactmessage": "Impressed? Let's start a conversation! Please note: all fields are required.",
     "email": "chinmay.annadate0112@gmail.com",
     "phone": "+91 7028135340",
@@ -38,22 +38,18 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "Walchand Institute of Technology, Solapur",
-        "degree": "Bachelor of Technology (Computer Science and Engineering) + Hons (Machine Learning and Artificial Intelligence)",
-        "graduated": "February 2021 - Present",
-        "description": "B. Tech"
-      },
-      {
         "school": "Global Indian International School, Chinchwad",
         "degree": "All India Senior School Examination",
         "graduated": "July 2020",
-        "description": "12th Grade"
+        "description": "12th Grade",
+        "link": "https://drive.google.com/file/d/1qeWfrpByLD_6r5F7fUAvEpHou1UPd0Qw/view?usp=sharing"
       },
       {
         "school": "Podar International School, Chinchwad",
         "degree": "All India Secondary School Examination",
         "graduated": "May 2018",
-        "description": "10th Grade"
+        "description": "10th Grade",
+        "link": "https://drive.google.com/file/d/1uwT7TcMlIFfEJk_J2OWfp2K4Nc1bnVsS/view?usp=sharing"
       }
     ],
     "work": [
@@ -62,6 +58,14 @@
         "title": "Student",
         "years": "June 2002 - Present",
         "description": ""
+      }
+    ],
+    "competitions": [
+      {
+        "event": "WITech-2021",
+        "title": "E-Debate 1st Prize",
+        "link": "https://drive.google.com/file/d/1NxXIJ0tsMi-Nbnnvf7D1RRffTtFZWFIh/view?usp=sharing",
+        "date": "December 2021"
       }
     ],
     "pythonCert": [
