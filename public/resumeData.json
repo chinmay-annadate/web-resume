@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Chinmay Annadate",
-    "occupation": "(Your Occupation Here)",
+    "occupation": "Developer",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
@@ -64,13 +64,60 @@
         "description": ""
       }
     ],
-    "onlineCourses": [
+    "pythonCert": [
       {
         "category": "Python",
-        "certification": "Hackerrank",
-        "years": "November 2021",
-        "description": "Python (Basic)",
-        "link": "https://www.hackerrank.com/certificates/450db50cce63"
+        "certification1": "Infosys Wingspan",
+        "years1": "November 2021",
+        "description1": "Introduction to Python",
+        "link1": "https://infyspringboard.onwingspan.com/en/cert/8758d922-6e16-4c9f-8565-33b330aa8f35",
+
+        "certification2": "Infosys Wingspan",
+        "years2": "November 2021",
+        "description2": "Python Data Structures and Algorithms",
+        "link2": "https://infyspringboard.onwingspan.com/en/cert/8a0e00e9-4dcd-4039-93e1-96d22dde6acc",
+
+        "certification3": "Infosys Wingspan",
+        "years3": "December 2021",
+        "description3": "Python Programmer Certication",
+        "link3": "https://infyspringboard.onwingspan.com/en/cert/368a0b17-de7f-4e63-b71f-8592e7e846ba",
+
+        "certification4": "Hackerrank",
+        "years4": "November 2021",
+        "description4": "Python (Basic)",
+        "link4": "https://www.hackerrank.com/certificates/450db50cce63"
+      }
+    ],
+    "cloud": [
+      {
+        "category": "Cloud Computing",
+        "certification1": "IBM Cognitive Class",
+        "years1": "November 2021",
+        "description1": "Introduction to Cloud",
+        "link1": "https://courses.cognitiveclass.ai/certificates/a26f4bbe0b4c4b71add4fbbbd6d53953"
+      }
+    ],
+    "dataScience": [
+      {
+        "category": "Data Science",
+        "certification1": "IBM Cognitive Class",
+        "years1": "November 2021",
+        "description1": "Introduction to Data Science",
+        "link1": "https://courses.cognitiveclass.ai/certificates/c22965d0e2134548a492269a392f8d84",
+
+        "certification2": "Infosys Wingspan",
+        "years2": "November 2021",
+        "description2": "Introduction to Data Science",
+        "link2": "https://infyspringboard.onwingspan.com/en/cert/afc54360-2a80-4f2a-86fe-7721dc660e9e"
+      }
+    ],
+    "C": [
+      {
+        "category": "C Language",
+        "certification1": "Infosys Wingspan",
+        "years1": "November 2021",
+        "description1": "Learn and Master C Programming For Absolute Beginners!",
+        "link1": "https://infyspringboard.onwingspan.com/en/cert/394e6248-91f3-4c81-870e-ee141f3e9dd7"
       }
     ],
     "skills": [
