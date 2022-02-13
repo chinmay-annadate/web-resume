@@ -62,10 +62,16 @@
     ],
     "competitions": [
       {
-        "event": "WITech-2021",
+        "event": "WITech - 2021",
         "title": "E-Debate 1st Prize",
         "link": "https://drive.google.com/file/d/1NxXIJ0tsMi-Nbnnvf7D1RRffTtFZWFIh/view?usp=sharing",
         "date": "December 2021"
+      },
+      {
+        "event": "Engineer's Day Celebration - 2021",
+        "title": "Verbal Ability Test Participation",
+        "link": "https://drive.google.com/file/d/13TYTdOPaI8KGz9OLN2Od-lyZilOvlgoQ/view?usp=sharing",
+        "date": "September 2021"
       }
     ],
     "pythonCert": [
