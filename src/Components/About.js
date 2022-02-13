@@ -13,14 +13,15 @@ class About extends Component {
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
-      var resumeDownload = this.props.data.resumedownload;
+      // var resumeDownload = this.props.data.resumedownload;
+      var resumeDownload = "Resume not constructed yet :("
     }
 
     return (
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
+            <img className="profile-pic"  src={profilepic} alt="Chinmay Annadate Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
@@ -38,9 +39,10 @@ class About extends Component {
                      <a href="mailto:{email}"><span>{email}</span></a>
 					   </p>
                </div>
-               <div className="columns download">
+               <div className="columns download" onClick={()=>{window.alert(resumeDownload)}}>
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     {/* <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a> */}
+                     <a href="#about" className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
             </div>
