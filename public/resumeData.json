@@ -7,14 +7,14 @@
     "bio": "CSE Undergrad",
     "contactmessage": "Impressed? Let's start a conversation! Please note: all fields are required.",
     "email": "chinmay.annadate0112@gmail.com",
-    "phone": "+91 7028135340",
+    "phone": "",
     "address": {
-      "street": "D-21, Morya Gosavi Raj Park Phase-3, Keshavnagar, Chinchwad",
-      "city": "Pune",
-      "state": "Maharashtra",
-      "zip": "411033"
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://chinmay-web-resume.web.app/",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
