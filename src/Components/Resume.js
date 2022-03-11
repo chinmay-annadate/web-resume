@@ -32,6 +32,8 @@ class Resume extends Component {
             <a className="certInfo" target="_blank" href={pythonCert.link1}>{pythonCert.certification1} {pythonCert.description1}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years1}</em>
             <br /><a className="certInfo" target="_blank" href={pythonCert.link2} target="_blank">{pythonCert.certification2} {pythonCert.description2}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years2}</em>
             <br /><a className="certInfo" target="_blank" href={pythonCert.link3} target="_blank">{pythonCert.certification3} {pythonCert.description3}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years3}</em>
+            <br /><a className="certInfo" target="_blank" href={pythonCert.link5} target="_blank">{pythonCert.certification5} {pythonCert.description5}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years5}</em>
+            
             <br />
             <br /><a className="certInfo" target="_blank" href={pythonCert.link4} target="_blank">{pythonCert.certification4} {pythonCert.description4}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years4}</em>
             <p></p>
