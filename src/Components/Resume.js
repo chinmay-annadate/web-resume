@@ -47,6 +47,13 @@ class Resume extends Component {
         </div>
       })
 
+      var ml = this.props.data.ml.map(function(ml){
+        return <div key={ml.category}><h3>{ml.category}</h3>
+            <a className="certInfo" target="_blank" href={ml.link1}>{ml.certification1} {ml.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{ml.years1}</em>
+            <p></p>
+        </div>
+      })
+
       var dataScience = this.props.data.dataScience.map(function(dataScience){
         return <div key={dataScience.category}><h3>{dataScience.category}</h3>
             <a className="certInfo" target="_blank" href={dataScience.link1}>{dataScience.certification1} {dataScience.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{dataScience.years1}</em>
@@ -120,6 +127,7 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
+          {ml}<br />
           {cloud}<br />
           {dataScience}<br />
           {pythonCert}<br />

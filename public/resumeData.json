@@ -104,6 +104,15 @@
         "link5": "https://drive.google.com/file/d/1RA6tvAiqEFOo3F0ChT1fNH3AlbYs-YRu/view?usp=sharing"
       }
     ],
+    "ml": [
+      {
+        "category": "Machine Learning",
+        "certification1": "IBM Cognitive Class",
+        "years1": "March 2022",
+        "description1": "Machine Learning with Python",
+        "link1": "https://courses.cognitiveclass.ai/certificates/7104540b37b146adadad0cfb8fdc08da"
+      }
+    ],
     "cloud": [
       {
         "category": "Cloud Computing",
