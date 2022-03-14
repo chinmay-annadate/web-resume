@@ -29,12 +29,14 @@ class Resume extends Component {
 
       var pythonCert = this.props.data.pythonCert.map(function(pythonCert){
         return <div key={pythonCert.category}><h3>{pythonCert.category}</h3>
-            <a className="certInfo" target="_blank" href={pythonCert.link1}>{pythonCert.certification1} {pythonCert.description1}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years1}</em>
-            <br /><a className="certInfo" target="_blank" href={pythonCert.link2}>{pythonCert.certification2} {pythonCert.description2}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years2}</em>
+            {/* wingspan */}
+            <a className="certInfo" target="_blank" href={pythonCert.link5}>{pythonCert.certification5} {pythonCert.description5}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years5}</em>
             <br /><a className="certInfo" target="_blank" href={pythonCert.link3}>{pythonCert.certification3} {pythonCert.description3}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years3}</em>
-            <br /><a className="certInfo" target="_blank" href={pythonCert.link5}>{pythonCert.certification5} {pythonCert.description5}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years5}</em>
+            <br /><a className="certInfo" target="_blank" href={pythonCert.link2}>{pythonCert.certification2} {pythonCert.description2}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years2}</em>
+            <br /><a className="certInfo" target="_blank" href={pythonCert.link1}>{pythonCert.certification1} {pythonCert.description1}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years1}</em>
             
             <br />
+            {/* hackerrank */}
             <br /><a className="certInfo" target="_blank" href={pythonCert.link4}>{pythonCert.certification4} {pythonCert.description4}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{pythonCert.years4}</em>
             <p></p>
         </div>
@@ -50,6 +52,13 @@ class Resume extends Component {
       var ml = this.props.data.ml.map(function(ml){
         return <div key={ml.category}><h3>{ml.category}</h3>
             <a className="certInfo" target="_blank" href={ml.link1}>{ml.certification1} {ml.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{ml.years1}</em>
+            <p></p>
+        </div>
+      })
+
+      var quantum = this.props.data.quantum.map(function(quantum){
+        return <div key={quantum.category}><h3>{quantum.category}</h3>
+            <a className="certInfo" target="_blank" href={quantum.link1}>{quantum.certification1} {quantum.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{quantum.years1}</em>
             <p></p>
         </div>
       })
@@ -127,6 +136,7 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
+          {quantum}<br />
           {ml}<br />
           {cloud}<br />
           {dataScience}<br />

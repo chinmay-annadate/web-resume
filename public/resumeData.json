@@ -104,6 +104,15 @@
         "link5": "https://drive.google.com/file/d/1RA6tvAiqEFOo3F0ChT1fNH3AlbYs-YRu/view?usp=sharing"
       }
     ],
+    "quantum": [
+      {
+        "category": "Quantum Computing",
+        "certification1": "IBM Cognitive Class",
+        "years1": "March 2022",
+        "description1": "Introduction to Quantum Computing",
+        "link1": "https://courses.cognitiveclass.ai/certificates/6fd097c453c6470da53a602c5f04e9dd"
+      }
+    ],
     "ml": [
       {
         "category": "Machine Learning",
