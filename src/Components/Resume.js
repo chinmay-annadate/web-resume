@@ -44,7 +44,8 @@ class Resume extends Component {
 
       var cloud = this.props.data.cloud.map(function(cloud){
         return <div key={cloud.category}><h3>{cloud.category}</h3>
-            <a className="certInfo" target="_blank" href={cloud.link1}>{cloud.certification1} {cloud.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{cloud.years1}</em>
+            <a className="certInfo" target="_blank" href={cloud.link2}>{cloud.certification2} {cloud.description2}</a><span className='certInfo'> &bull; </span> <em className="certDate">{cloud.years2}</em>
+            <br /><a className="certInfo" target="_blank" href={cloud.link1}>{cloud.certification1} {cloud.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{cloud.years1}</em>
             <p></p>
         </div>
       })
