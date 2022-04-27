@@ -50,6 +50,13 @@ class Resume extends Component {
         </div>
       })
 
+      var java = this.props.data.java.map(function(java){
+        return <div key={java.category}><h3>{java.category}</h3>
+            <a className="certInfo" target="_blank" href={java.link1}>{java.certification1} {java.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{java.years1}</em>
+            <p></p>
+        </div>
+      })
+
       var ml = this.props.data.ml.map(function(ml){
         return <div key={ml.category}><h3>{ml.category}</h3>
             <a className="certInfo" target="_blank" href={ml.link1}>{ml.certification1} {ml.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{ml.years1}</em>
@@ -137,6 +144,7 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
+          {java}<br />
           {quantum}<br />
           {ml}<br />
           {cloud}<br />

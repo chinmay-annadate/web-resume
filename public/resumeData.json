@@ -104,6 +104,15 @@
         "link5": "https://drive.google.com/file/d/1RA6tvAiqEFOo3F0ChT1fNH3AlbYs-YRu/view?usp=sharing"
       }
     ],
+    "java": [
+      {
+        "category": "Java",
+        "certification1": "Infosys Wingspan",
+        "years1": "April 2022",
+        "description1": "Java Programming Fundamentals",
+        "link1": "https://drive.google.com/file/d/1KiSrxeFdEi5efl6PzOKnSaHUkGMUar6z/view?usp=sharing"
+      }
+    ],
     "quantum": [
       {
         "category": "Quantum Computing",
