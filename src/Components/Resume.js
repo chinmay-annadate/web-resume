@@ -57,6 +57,13 @@ class Resume extends Component {
         </div>
       })
 
+      var _4g5g = this.props.data._4g5g.map(function(_4g5g){
+        return <div key={_4g5g.category}><h3>{_4g5g.category}</h3>
+            <a className="certInfo" target="_blank" href={_4g5g.link1}>{_4g5g.certification1} {_4g5g.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{_4g5g.years1}</em>
+            <p></p>
+        </div>
+      })
+
       var ml = this.props.data.ml.map(function(ml){
         return <div key={ml.category}><h3>{ml.category}</h3>
             <a className="certInfo" target="_blank" href={ml.link1}>{ml.certification1} {ml.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{ml.years1}</em>
@@ -73,8 +80,9 @@ class Resume extends Component {
 
       var dataScience = this.props.data.dataScience.map(function(dataScience){
         return <div key={dataScience.category}><h3>{dataScience.category}</h3>
-            <a className="certInfo" target="_blank" href={dataScience.link1}>{dataScience.certification1} {dataScience.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{dataScience.years1}</em>
+            <a className="certInfo" target="_blank" href={dataScience.link3}>{dataScience.certification3} {dataScience.description3}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{dataScience.years3  }</em>
             <br /><a className="certInfo" target="_blank" href={dataScience.link2}>{dataScience.certification2} {dataScience.description2}</a><span className='certInfo'> &bull; </span> <em className="certDate">{dataScience.years2}</em>
+            <br /><a className="certInfo" target="_blank" href={dataScience.link1}>{dataScience.certification1} {dataScience.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{dataScience.years1}</em>
             <p></p>
         </div>
       })
@@ -144,6 +152,7 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
+          {_4g5g}<br />
           {java}<br />
           {quantum}<br />
           {ml}<br />

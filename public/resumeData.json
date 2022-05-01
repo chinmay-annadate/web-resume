@@ -113,6 +113,15 @@
         "link1": "https://drive.google.com/file/d/1KiSrxeFdEi5efl6PzOKnSaHUkGMUar6z/view?usp=sharing"
       }
     ],
+    "_4g5g": [
+      {
+        "category": "4G-5G",
+        "certification": "Infosys Wingspan",
+        "years1": "May 2022",
+        "description1": "Wireless 4G-5G enabling technologies",
+        "link1": "https://drive.google.com/file/d/1k664RqNjoXp0qwlcT_RWysWWhB5pgm37/view?usp=sharing"
+      }
+    ],
     "quantum": [
       {
         "category": "Quantum Computing",
@@ -156,7 +165,12 @@
         "certification2": "Infosys Wingspan",
         "years2": "November 2021",
         "description2": "Introduction to Data Science",
-        "link2": "https://drive.google.com/file/d/1s8ZWujFUy--WyUuF6KpQ_IwwZ7lPMRBQ/view?usp=sharing"
+        "link2": "https://drive.google.com/file/d/1s8ZWujFUy--WyUuF6KpQ_IwwZ7lPMRBQ/view?usp=sharing",
+
+        "certification3": "Infosys Wingspan",
+        "years3": "May 2022",
+        "description3": "Data Visualisation using Python",
+        "link3": "https://drive.google.com/file/d/19P8zcYiGqyfI1CLTJyi6BfDgVB8Ddv3Q/view?usp=sharing"
       }
     ],
     "C": [
