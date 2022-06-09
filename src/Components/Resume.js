@@ -78,6 +78,13 @@ class Resume extends Component {
         </div>
       })
 
+      var blockchain = this.props.data.blockchain.map(function(blockchain){
+        return <div key={blockchain.category}><h3>{blockchain.category}</h3>
+            <a className="certInfo" target="_blank" href={blockchain.link1}>{blockchain.certification1} {blockchain.description1}</a><span className='certInfo'> &bull; </span> <em className="certDate">{blockchain.years1}</em>
+            <p></p>
+        </div>
+      })
+
       var dataScience = this.props.data.dataScience.map(function(dataScience){
         return <div key={dataScience.category}><h3>{dataScience.category}</h3>
             <a className="certInfo" target="_blank" href={dataScience.link3}>{dataScience.certification3} {dataScience.description3}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{dataScience.years3  }</em>
@@ -152,6 +159,7 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
+          {blockchain}<br />
           {_4g5g}<br />
           {java}<br />
           {quantum}<br />

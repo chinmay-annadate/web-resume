@@ -122,6 +122,15 @@
         "link1": "https://drive.google.com/file/d/1k664RqNjoXp0qwlcT_RWysWWhB5pgm37/view?usp=sharing"
       }
     ],
+    "blockchain": [
+      {
+        "category": "Blockchain",
+        "certification": "IBM Cognitive Class",
+        "years1": "June 2022",
+        "description1": "IBM Blockchain Foundation Developer",
+        "link1": "https://courses.cognitiveclass.ai/certificates/cd9f26d85ea24d83b31b787769756d48"
+      }
+    ],
     "quantum": [
       {
         "category": "Quantum Computing",
