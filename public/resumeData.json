@@ -63,10 +63,16 @@
     ],
     "competitions": [
       {
-        "event": "WITech - 2021",
-        "title": "E-Debate 1st Prize",
+        "event": "WITech-2021 - E-Debate",
+        "title": "1st Prize",
         "link": "https://drive.google.com/file/d/1NxXIJ0tsMi-Nbnnvf7D1RRffTtFZWFIh/view?usp=sharing",
         "date": "December 2021"
+      },
+      {
+        "event": "Innovate India Coding Championship (Round-2)",
+        "title": "Participation",
+        "link": "https://drive.google.com/file/d/1u856xC1N7VZ4fA0n2_Q11fyMVLAAAlxG/view?usp=sharing",
+        "date": "July 2022"
       },
       {
         "event": "Engineer's Day Celebration - 2021",
