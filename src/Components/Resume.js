@@ -159,8 +159,8 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
-          {blockchain}<br />
-          {_4g5g}<br />
+          {/* {blockchain}<br />
+          {_4g5g}<br /> */}
           {java}<br />
           {quantum}<br />
           {ml}<br />
