@@ -187,31 +187,23 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
+        "name": "Python",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "SQL",
         "level": "80%"
       },
       {
-        "name": "VueJs",
-        "level": "50%"
+        "name": "ReactJs",
+        "level": "30%"
       },
       {
-        "name": "MongoDB",
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
         "level": "80%"
       }
     ]
