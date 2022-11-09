@@ -383,7 +383,7 @@ ul#nav li.current a { color: #F06000; }
  }
 @-moz-keyframes reactjs {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
@@ -404,7 +404,7 @@ ul#nav li.current a { color: #F06000; }
  }
 @-webkit-keyframes reactjs {
   0%   { width: 0px;  }
-  100% { width: 30%;  }
+  100% { width: 60%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
@@ -424,8 +424,10 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 90px;
    padding-bottom: 60px;
 }
+
 #portfolio h1 {
    font: 15px/24px 'opensans-semibold', sans-serif;
+   font-size: 2rem;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
