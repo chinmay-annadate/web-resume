@@ -2,8 +2,10 @@
   "main": {
     "name": "Chinmay Annadate",
     "occupation": "developer",
-    "description1": "currently pusuing an B.Tech degree in Computer Science and Engineering from Solapur University through",
-    "description2": "Walchand Institute of Technology",
+    "description1": "currently pusuing an B.Tech degree in ",
+    "description2": "Computer Science and Engineering and Honors in Artifical Intelligence and",
+    "description3": "Machine Learning from Solapur University through ",
+    "description4": "Walchand Institute of Technology",
     "image": "profilepic.jpg",
     "bio": "A rigorous, task-driven professional with experience in basic programming, web development, and machine learning. Adept at leveraging superior communicate and interpersonal skills to interact with diverse individuals and groups.",
     "contactmessage": "Impressed? Let's start a conversation! Please note: all fields are required.",
