@@ -100,6 +100,30 @@
         "link5": "https://drive.google.com/file/d/1RA6tvAiqEFOo3F0ChT1fNH3AlbYs-YRu/view?usp=sharing"
       }
     ],
+    "aiCert": [
+      {
+        "category": "Artificial Intelligence",
+        "certification1": "Infosys Wingspan",
+        "years1": "November 2022",
+        "description1": "Introduction to Artificial Intelligence",
+        "link1": "https://drive.google.com/file/d/1kFBU8jWYi_poh81Yi2qObheHcnJgGsmW/view?usp=share_link",
+
+        "certification2": "Infosys Wingspan",
+        "years2": "November 2022",
+        "description2": "Computer Vision 101",
+        "link2": "https://drive.google.com/file/d/1taHr-bayfaLs9vmlxpVz1mWYeuebj3Dn/view?usp=share_link",
+
+        "certification3": "Infosys Wingspan",
+        "years3": "January 2023",
+        "description3": "Natural Language Processing",
+        "link3": "https://drive.google.com/file/d/1UMUw9nyq_pFDlDU-33JvDRyfvWnNlpwZ/view?usp=share_link",
+
+        "certification5": "Infosys Wingspan",
+        "years5": "January 2023",
+        "description5": "Introduction to Robotic Process Automation",
+        "link5": "https://drive.google.com/file/d/1IzAsFfe0FCrqi5Dj6bAkEq06MEFHiiT8/view?usp=share_link"
+      }
+    ],
     "java": [
       {
         "category": "Java",
