@@ -52,6 +52,13 @@ class Resume extends Component {
         </div>
       })
 
+      var projMan = this.props.data.projMan.map(function(projMan){
+        return <div key={projMan.category}><h3>{projMan.category}</h3>
+            <a className="certInfo" target="_blank" href={projMan.link1}>{projMan.certification1} {projMan.description1}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years1}</em>
+            <p></p>
+        </div>
+      })
+
       var cloud = this.props.data.cloud.map(function(cloud){
         return <div key={cloud.category}><h3>{cloud.category}</h3>
             <a className="certInfo" target="_blank" href={cloud.link2}>{cloud.certification2} {cloud.description2}</a><span className='certInfo'> &bull; </span> <em className="certDate">{cloud.years2}</em>
@@ -171,6 +178,7 @@ class Resume extends Component {
          <div className="nine columns main-col">
           {/* {blockchain}<br />
           {_4g5g}<br /> */}
+          {projMan}<br />
           {aiCert}<br />
           {java}<br />
           {quantum}<br />

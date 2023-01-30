@@ -35,7 +35,7 @@ class About extends Component {
 						   <span>{street}<br /> */}
 						         {/* {city} {state}, {zip} */}
                    {/* </span><br /> */}
-						   {/* <span>{phone}</span><br /> */}
+						   <a href="tel:+917028135340">{phone}</a><br />
                      <a href="mailto:{email}"><span>{email}</span></a>
 					   </p>
                </div>

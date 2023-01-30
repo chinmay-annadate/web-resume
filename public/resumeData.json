@@ -10,7 +10,7 @@
     "bio": "Hardworking College Student seeking employment. Bringing forth a motivated attitude and a variety of powerful skills. Well-rounded and professional team player dedicated to continuing academic pursuits at a collegiate level. Highly organized, and skilled in written and verbal communication.",
     "contactmessage": "Impressed? Let's start a conversation! Please note: all fields are required.",
     "email": "chinmay.annadate0112@gmail.com",
-    "phone": "",
+    "phone": "+91 7028135340",
     "address": {
       "street": "",
       "city": "Pune",
@@ -122,6 +122,15 @@
         "years5": "January 2023",
         "description5": "Introduction to Robotic Process Automation",
         "link5": "https://drive.google.com/file/d/1IzAsFfe0FCrqi5Dj6bAkEq06MEFHiiT8/view?usp=share_link"
+      }
+    ],
+    "projMan": [
+      {
+        "category": "Project Management",
+        "certification1": "Coursera",
+        "years1": "January 2023",
+        "description1": "Foundations of Project Management",
+        "link1": "https://drive.google.com/file/d/1SnlufsnUuNo4mDLAfiX21d4-BfBdA0S-/view?usp=share_link"
       }
     ],
     "java": [
