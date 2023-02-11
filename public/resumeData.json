@@ -103,6 +103,12 @@
     "aiCert": [
       {
         "category": "Artificial Intelligence",
+
+        "certification4": "Infosys Wingspan",
+        "years4": "February 2023",
+        "description4": "Artificial Intelligence Primer",
+        "link4": "https://drive.google.com/file/d/1CSGnpE39XY1myiTOYTT_eXqtopmDHdYZ/view?usp=share_link",
+
         "certification1": "Infosys Wingspan",
         "years1": "November 2022",
         "description1": "Introduction to Artificial Intelligence",
@@ -121,7 +127,12 @@
         "certification5": "Infosys Wingspan",
         "years5": "January 2023",
         "description5": "Introduction to Robotic Process Automation",
-        "link5": "https://drive.google.com/file/d/1IzAsFfe0FCrqi5Dj6bAkEq06MEFHiiT8/view?usp=share_link"
+        "link5": "https://drive.google.com/file/d/1IzAsFfe0FCrqi5Dj6bAkEq06MEFHiiT8/view?usp=share_link",
+
+        "certification6": "Infosys Wingspan",
+        "years6": "November 2021",
+        "description6": "Introduction to Data Science",
+        "link6": "https://drive.google.com/file/d/1s8ZWujFUy--WyUuF6KpQ_IwwZ7lPMRBQ/view?usp=sharing"
       }
     ],
     "projMan": [
@@ -130,7 +141,7 @@
         "certification1": "Coursera",
         "years1": "January 2023",
         "description1": "Foundations of Project Management",
-        "link1": "https://drive.google.com/file/d/1SnlufsnUuNo4mDLAfiX21d4-BfBdA0S-/view?usp=share_link"
+        "link1": "https://www.coursera.org/account/accomplishments/verify/JFR5BP399R5L"
       }
     ],
     "java": [
