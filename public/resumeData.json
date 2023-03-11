@@ -141,7 +141,12 @@
         "certification1": "Coursera",
         "years1": "January 2023",
         "description1": "Foundations of Project Management",
-        "link1": "https://www.coursera.org/account/accomplishments/verify/JFR5BP399R5L"
+        "link1": "https://www.coursera.org/account/accomplishments/verify/JFR5BP399R5L",
+
+        "certification2": "Coursera",
+        "years2": "March 2023",
+        "description2": "Project Initiation: Staring a Successful Project",
+        "link2": "https://www.coursera.org/account/accomplishments/verify/C9986K849H67"
       }
     ],
     "java": [
