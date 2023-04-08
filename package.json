@@ -8,17 +8,12 @@
     "@testing-library/user-event": "^13.5.0",
     "firebase": "^9.6.6",
     "firebase-tools": "^10.2.0",
-    "http-cache-semantics": "^4.1.1",
     "jquery": "^3.6.0",
-    "jszip": "^3.10.1",
-    "minimist": "^1.2.8",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-ga": "^3.3.0",
     "react-scripts": "5.0.0",
-    "vm2": "^3.9.15",
-    "web-vitals": "^2.1.4",
-    "webpack": "^5.78.0"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
