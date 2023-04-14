@@ -56,7 +56,8 @@ class Resume extends Component {
 
       var projMan = this.props.data.projMan.map(function(projMan){
         return <div key={projMan.category}><h3>{projMan.category}</h3>
-            <a className="certInfo" target="_blank" href={projMan.link3}>{projMan.certification3} {projMan.description3}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years3}</em>
+            <a className="certInfo" target="_blank" href={projMan.link4}>{projMan.certification4} {projMan.description4}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years4}</em>
+            <br /><a className="certInfo" target="_blank" href={projMan.link3}>{projMan.certification3} {projMan.description3}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years3}</em>
             <br /><a className="certInfo" target="_blank" href={projMan.link2}>{projMan.certification2} {projMan.description2}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years2}</em>
             <br /> <a className="certInfo" target="_blank" href={projMan.link1}>{projMan.certification1} {projMan.description1}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years1}</em>
             <p></p>
