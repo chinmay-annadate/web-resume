@@ -45,7 +45,7 @@ class Resume extends Component {
       var aiCert = this.props.data.aiCert.map(function(aiCert){
         return <div key={aiCert.category}><h3>{aiCert.category}</h3>
             <a className="certInfo" target="_blank" href={aiCert.link4}>{aiCert.certification4} {aiCert.description4}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{aiCert.years4}</em>
-            <br /><a className="certInfo" target="_blank" href={aiCert.link5}>{aiCert.certification5} {aiCert.description5}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{aiCert.years5}</em>
+            <br /><br /><a className="certInfo" target="_blank" href={aiCert.link5}>{aiCert.certification5} {aiCert.description5}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{aiCert.years5}</em>
             <br /><a className="certInfo" target="_blank" href={aiCert.link3}>{aiCert.certification3} {aiCert.description3}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{aiCert.years3}</em>
             <br /><a className="certInfo" target="_blank" href={aiCert.link2}>{aiCert.certification2} {aiCert.description2}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{aiCert.years2}</em>
             <br /><a className="certInfo" target="_blank" href={aiCert.link1}>{aiCert.certification1} {aiCert.description1}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{aiCert.years1}</em>
@@ -56,7 +56,8 @@ class Resume extends Component {
 
       var projMan = this.props.data.projMan.map(function(projMan){
         return <div key={projMan.category}><h3>{projMan.category}</h3>
-            <a className="certInfo" target="_blank" href={projMan.link6}>{projMan.certification6} {projMan.description6}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years6}</em>
+            <a className="certInfo" target="_blank" href={projMan.link7}>{projMan.certification7} {projMan.description7}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years7}</em>
+            <br /><br /><a className="certInfo" target="_blank" href={projMan.link6}>{projMan.certification6} {projMan.description6}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years6}</em>
             <br /><a className="certInfo" target="_blank" href={projMan.link5}>{projMan.certification5} {projMan.description5}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years5}</em>
             <br /><a className="certInfo" target="_blank" href={projMan.link4}>{projMan.certification4} {projMan.description4}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years4}</em>
             <br /><a className="certInfo" target="_blank" href={projMan.link3}>{projMan.certification3} {projMan.description3}</a> <span className='certInfo'> &bull; </span> <em className="certDate">{projMan.years3}</em>

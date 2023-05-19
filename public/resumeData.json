@@ -128,30 +128,41 @@
     "projMan": [
       {
         "category": "Project Management",
+        
         "certification1": "Coursera",
         "years1": "January 2023",
         "description1": "Foundations of Project Management",
         "link1": "https://www.coursera.org/account/accomplishments/verify/JFR5BP399R5L",
+        
         "certification2": "Coursera",
         "years2": "March 2023",
         "description2": "Project Initiation: Staring a Successful Project",
         "link2": "https://www.coursera.org/account/accomplishments/verify/C9986K849H67",
+        
         "certification3": "Coursera",
         "years3": "March 2023",
         "description3": "Project Planning: Putting It All Together",
         "link3": "https://www.coursera.org/account/accomplishments/verify/RAK9QNZDJ9VP",
+        
         "certification4": "Coursera",
         "years4": "April 2023",
         "description4": "Project Execution: Running the Project",
         "link4": "https://www.coursera.org/account/accomplishments/verify/B8ZFJT4NM7W2",
+        
         "certification5": "Coursera",
         "years5": "May 2023",
         "description5": "Agile Project Management",
         "link5": "https://www.coursera.org/account/accomplishments/certificate/GC5B76JWBJPY",
+        
         "certification6": "Coursera",
         "years6": "May 2023",
         "description6": "Capstone: Applying Project Management in the Real World",
-        "link6": "https://www.coursera.org/account/accomplishments/certificate/4AEZGYFMAGNE"
+        "link6": "https://www.coursera.org/account/accomplishments/certificate/4AEZGYFMAGNE",
+
+        "certification7": "Coursera",
+        "years7": "May 2023",
+        "description7": "Google Project Management",
+        "link7": "https://www.coursera.org/account/accomplishments/specialization/certificate/JMJF2D6QRW6J"
       }
     ],
     "java": [
