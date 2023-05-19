@@ -78,22 +78,18 @@
         "years1": "November 2021",
         "description1": "Introduction to Python",
         "link1": "https://drive.google.com/file/d/1Uh85iut0rokgtkYmuwXkO8kZWp5z54qA/view?usp=sharing",
-
         "certification2": "Infosys Wingspan",
         "years2": "November 2021",
         "description2": "Python Data Structures and Algorithms",
         "link2": "https://drive.google.com/file/d/1obc0fn4N9r-W_I42GY8L_MsVfjMBtbq5/view?usp=sharing",
-
         "certification3": "Infosys Wingspan",
         "years3": "December 2021",
         "description3": "Python Programmer Certication",
         "link3": "https://drive.google.com/file/d/1pgI-rs4bQoOrIaR961wldgyHM-atOAQ9/view?usp=sharing",
-
         "certification4": "Hackerrank",
         "years4": "November 2021",
         "description4": "Python (Basic)",
         "link4": "https://www.hackerrank.com/certificates/450db50cce63",
-
         "certification5": "Infosys Wingspan",
         "years5": "March 2022",
         "description5": "Object Oriented Programming using Python",
@@ -103,32 +99,26 @@
     "aiCert": [
       {
         "category": "Artificial Intelligence",
-
         "certification4": "Infosys Wingspan",
         "years4": "February 2023",
         "description4": "Artificial Intelligence Primer",
         "link4": "https://drive.google.com/file/d/1CSGnpE39XY1myiTOYTT_eXqtopmDHdYZ/view?usp=share_link",
-
         "certification1": "Infosys Wingspan",
         "years1": "November 2022",
         "description1": "Introduction to Artificial Intelligence",
         "link1": "https://drive.google.com/file/d/1kFBU8jWYi_poh81Yi2qObheHcnJgGsmW/view?usp=share_link",
-
         "certification2": "Infosys Wingspan",
         "years2": "November 2022",
         "description2": "Computer Vision 101",
         "link2": "https://drive.google.com/file/d/1taHr-bayfaLs9vmlxpVz1mWYeuebj3Dn/view?usp=share_link",
-
         "certification3": "Infosys Wingspan",
         "years3": "January 2023",
         "description3": "Natural Language Processing",
         "link3": "https://drive.google.com/file/d/1UMUw9nyq_pFDlDU-33JvDRyfvWnNlpwZ/view?usp=share_link",
-
         "certification5": "Infosys Wingspan",
         "years5": "January 2023",
         "description5": "Introduction to Robotic Process Automation",
         "link5": "https://drive.google.com/file/d/1IzAsFfe0FCrqi5Dj6bAkEq06MEFHiiT8/view?usp=share_link",
-
         "certification6": "Infosys Wingspan",
         "years6": "November 2021",
         "description6": "Introduction to Data Science",
@@ -142,21 +132,22 @@
         "years1": "January 2023",
         "description1": "Foundations of Project Management",
         "link1": "https://www.coursera.org/account/accomplishments/verify/JFR5BP399R5L",
-
         "certification2": "Coursera",
         "years2": "March 2023",
         "description2": "Project Initiation: Staring a Successful Project",
         "link2": "https://www.coursera.org/account/accomplishments/verify/C9986K849H67",
-
         "certification3": "Coursera",
         "years3": "March 2023",
         "description3": "Project Planning: Putting It All Together",
         "link3": "https://www.coursera.org/account/accomplishments/verify/RAK9QNZDJ9VP",
-        
         "certification4": "Coursera",
         "years4": "April 2023",
         "description4": "Project Execution: Running the Project",
-        "link4": "https://www.coursera.org/account/accomplishments/verify/B8ZFJT4NM7W2"
+        "link4": "https://www.coursera.org/account/accomplishments/verify/B8ZFJT4NM7W2",
+        "certification5": "Coursera",
+        "years5": "May 2023",
+        "description5": "Agile Project Management",
+        "link5": "https://www.coursera.org/account/accomplishments/certificate/GC5B76JWBJPY"
       }
     ],
     "java": [
@@ -211,7 +202,6 @@
         "years1": "November 2021",
         "description1": "Introduction to Cloud",
         "link1": "https://courses.cognitiveclass.ai/certificates/a26f4bbe0b4c4b71add4fbbbd6d53953",
-
         "certification2": "Infosys Wingspan",
         "years2": "February 2022",
         "description2": "Online masterclass on Assure with MS Azure Cloud",
@@ -225,12 +215,10 @@
         "years1": "November 2021",
         "description1": "Introduction to Data Science",
         "link1": "https://courses.cognitiveclass.ai/certificates/c22965d0e2134548a492269a392f8d84",
-
         "certification2": "Infosys Wingspan",
         "years2": "November 2021",
         "description2": "Introduction to Data Science",
         "link2": "https://drive.google.com/file/d/1s8ZWujFUy--WyUuF6KpQ_IwwZ7lPMRBQ/view?usp=sharing",
-
         "certification3": "Infosys Wingspan",
         "years3": "May 2022",
         "description3": "Data Visualisation using Python",
@@ -247,6 +235,10 @@
       }
     ],
     "skills": [
+      {
+        "name": "Flutter",
+        "level": "90%"
+      },
       {
         "name": "Python",
         "level": "90%"
