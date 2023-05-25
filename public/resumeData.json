@@ -217,10 +217,16 @@
         "years1": "November 2021",
         "description1": "Introduction to Cloud",
         "link1": "https://courses.cognitiveclass.ai/certificates/a26f4bbe0b4c4b71add4fbbbd6d53953",
+
         "certification2": "Infosys Wingspan",
         "years2": "February 2022",
         "description2": "Online masterclass on Assure with MS Azure Cloud",
-        "link2": "https://drive.google.com/file/d/1TeKLnxdNb_PFE8_-FxWde6n-Is1jP-VA/view?usp=sharing"
+        "link2": "https://drive.google.com/file/d/1TeKLnxdNb_PFE8_-FxWde6n-Is1jP-VA/view?usp=sharing",
+
+        "certification3": "AWS Academy",
+        "years3": "May 2023",
+        "description3": "Cloud Foundations",
+        "link3": "https://www.credly.com/badges/b57d4a63-9ca4-498c-af62-caebaf20ac9e/linked_in?t=rv7f2t"
       }
     ],
     "dataScience": [
@@ -251,12 +257,12 @@
     ],
     "skills": [
       {
-        "name": "Flutter",
+        "name": "Python",
         "level": "90%"
       },
       {
-        "name": "Python",
-        "level": "90%"
+        "name": "Flutter",
+        "level": "80%"
       },
       {
         "name": "SQL",
