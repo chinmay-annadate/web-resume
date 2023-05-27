@@ -19,11 +19,12 @@ class Resume extends Component {
       //   </div>
       // })
 
-      var competitions = this.props.data.competitions.map(function(competitions){
-        return <div key={competitions.event}><h3>{competitions.event}</h3>
-            <a className="certInfo" target="_blank" href={competitions.link}>{competitions.title}</a>
-            <span className='certInfo'> &bull; </span><em className="certDate">{competitions.date}</em>
-            <p>{competitions.description}</p>
+      var achievements = this.props.data.achievements.map(function(achievements){
+        return <div key={achievements.event1}>
+            <h3>{achievements.event3}</h3><a className="certInfo" target="_blank" href={achievements.link3}>{achievements.title3}</a> <span className='certInfo'> &bull; </span><em className="certDate">{achievements.date3}</em>
+            <br /><br /><h3>{achievements.event2}</h3><a className="certInfo" target="_blank" href={achievements.link2}>{achievements.title2}</a> <span className='certInfo'> &bull; </span><em className="certDate">{achievements.date1}</em>
+            <br /><br /><h3>{achievements.event1}</h3><a className="certInfo" target="_blank" href={achievements.link1}>{achievements.title1}</a> <span className='certInfo'> &bull; </span><em className="certDate">{achievements.date1}</em>
+            <p>{achievements.description}</p>
         </div>
       })
 
@@ -166,13 +167,13 @@ class Resume extends Component {
     
     <div className="row education">
          <div className="three columns header-col">
-            <h1><span>Competitions</span></h1>
+            <h1><span>Achievements</span></h1>
          </div>
 
          <div className="nine columns main-col">
             <div className="row item">
                <div className="twelve columns">
-                 {competitions}
+                 {achievements}
                </div>
             </div>
          </div>

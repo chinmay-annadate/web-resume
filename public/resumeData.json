@@ -18,7 +18,7 @@
       "zip": ""
     },
     "website": "https://chinmay-web-resume.web.app/",
-    "resumedownload": "https://drive.google.com/file/d/1QBvk1ITOvX7VjX2RL-xZLhEwFBW068pu/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1Svj47Ahdi7n400qg4hO6wLGHYzCKUhtb/view?usp=drive_link",
     "social": [
       {
         "name": "linkedin",
@@ -63,12 +63,22 @@
         "description": ""
       }
     ],
-    "competitions": [
+    "achievements": [
       {
-        "event": "WITech-2021 - E-Debate",
-        "title": "1st Prize",
-        "link": "https://drive.google.com/file/d/1NxXIJ0tsMi-Nbnnvf7D1RRffTtFZWFIh/view?usp=sharing",
-        "date": "December 2021"
+        "event3": "Second Year of B.Tech",
+        "title3": "1st Rank",
+        "link3": "https://drive.google.com/file/d/1ykZM9CEZk6fxnypDeGMWucjMB2t-F3c5/view?usp=sharing",
+        "date3": "May 2023",
+
+        "event2": "WITchar-23 - Cool Code (Programming Contest)",
+        "title2": "Finalist",
+        "link2": "https://drive.google.com/file/d/1yqGMkUyj3cMbjwRoS3fGViKXSweO_l85/view?usp=sharing",
+        "date2": "May 2023",
+
+        "event1": "WITech-2021 - E-Debate",
+        "title1": "1st Prize",
+        "link1": "https://drive.google.com/file/d/1NxXIJ0tsMi-Nbnnvf7D1RRffTtFZWFIh/view?usp=sharing",
+        "date1": "December 2021"
       }
     ],
     "pythonCert": [
@@ -262,7 +272,7 @@
       },
       {
         "name": "Flutter",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "SQL",
