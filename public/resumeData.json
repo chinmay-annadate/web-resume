@@ -18,7 +18,7 @@
       "zip": ""
     },
     "website": "https://chinmay-web-resume.web.app/",
-    "resumedownload": "https://drive.google.com/file/d/1JlOCEdBN67_uxXWrWRhVydHvt8XpVv9i/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1-Vp8HX1mLYTmSkzhjTB5evMMIxSuIKox/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -296,7 +296,7 @@
     "projects": [
       {
         "title": "Campus Connect",
-        "category": "A mobile application that serves as a platform where educational instiutions can host virtual tours of their campus",
+        "category": "A mobile application that serves as a platform where educational institutions can host virtual tours of their campus",
         "image": "Campus Connect-logos.jpeg",
         "url": "https://campus-connect-324ef.web.app/#/"
       },
