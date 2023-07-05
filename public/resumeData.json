@@ -18,7 +18,7 @@
       "zip": ""
     },
     "website": "https://chinmay-web-resume.web.app/",
-    "resumedownload": "https://drive.google.com/file/d/1Svj47Ahdi7n400qg4hO6wLGHYzCKUhtb/view?usp=drive_link",
+    "resumedownload": "https://drive.google.com/file/d/1JlOCEdBN67_uxXWrWRhVydHvt8XpVv9i/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -276,7 +276,7 @@
       },
       {
         "name": "SQL",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "ReactJs",
@@ -295,8 +295,14 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Campus Connect",
+        "category": "A mobile application that serves as a platform where educational instiutions can host virtual tours of their campus",
+        "image": "Campus Connect-logos.jpeg",
+        "url": "https://campus-connect-324ef.web.app/#/"
+      },
+      {
         "title": "Happy Birthday E-Mail Sender",
-        "category": "A script written by me and my team to send emails to Alumni of our college wishing them a happy birthday",
+        "category": "A script that sends emails to Alumni of our college wishing them a happy birthday using SMTP, MIME and Google Sheets API",
         "image": "alumni project.png",
         "url": "https://github.com/chinmay-annadate/Alumni-Project"
       },
