@@ -41,17 +41,24 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
+        "school": "Walchand Institute of Technology, Solapur",
+        "degree": "B.Tech CSE Hons(AI-ML) - 9.8 SGPA",
+        "graduated": "2024",
+        "description": "Bachelor's degree",
+        "link": ""
+      },
+      {
         "school": "Global Indian International School, Chinchwad",
         "degree": "All India Senior School Examination",
         "graduated": "July 2020",
-        "description": "12th Grade",
+        "description": "12th Grade - 92%",
         "link": "https://drive.google.com/file/d/1qeWfrpByLD_6r5F7fUAvEpHou1UPd0Qw/view?usp=sharing"
       },
       {
         "school": "Podar International School, Chinchwad",
         "degree": "All India Secondary School Examination",
         "graduated": "May 2018",
-        "description": "10th Grade",
+        "description": "10th Grade - 90.4%",
         "link": "https://drive.google.com/file/d/1uwT7TcMlIFfEJk_J2OWfp2K4Nc1bnVsS/view?usp=sharing"
       }
     ],
