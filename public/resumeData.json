@@ -318,24 +318,6 @@
         "category": "A web-resume",
         "image": "web-resume.png",
         "url": "https://chinmay-web-resume.web.app/"
-      },
-      {
-        "title": "Tesla Clone",
-        "category": "A clone of the Tesla homepage created using ReactJS",
-        "image": "tesla clone.png",
-        "url": "https://tesla-clone-fd230.web.app/"
-      },
-      {
-        "title": "Disney+ Clone",
-        "category": "A clone of the Disney+ homepage created using ReactJS",
-        "image": "disney plus clone.png",
-        "url": "https://disneyplus-clone-c25e3.web.app/"
-      },
-      {
-        "title": "Train Ticket Reservation System",
-        "category": "High School project created using JAVA Swing GUI and MySQL",
-        "image": "high school project.png",
-        "url": "https://github.com/chinmay-annadate/train-tickets-high-school-project"
       }
     ]
   },
