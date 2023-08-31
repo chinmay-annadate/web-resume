@@ -311,7 +311,7 @@
         "title": "Happy Birthday E-Mail Sender",
         "category": "A script that sends emails to Alumni of our college wishing them a happy birthday using SMTP, MIME and Google Sheets API",
         "image": "alumni project.png",
-        "url": "https://github.com/chinmay-annadate/Alumni-Project"
+        "url": "https://github.com/chinmay-annadate/alumni-happy-birthday-wisher"
       },
       {
         "title": "Web Resume",
