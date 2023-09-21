@@ -21,7 +21,8 @@ class Resume extends Component {
 
       var achievements = this.props.data.achievements.map(function(achievements){
         return <div key={achievements.event1}>
-            <h3>{achievements.event3}</h3><a className="certInfo" target="_blank" href={achievements.link3}>{achievements.title3}</a> <span className='certInfo'> &bull; </span><em className="certDate">{achievements.date3}</em>
+            <h3>{achievements.event4}</h3><a className="certInfo" target="_blank" href={achievements.link4}>{achievements.title4}</a> <span className='certInfo'> &bull; </span><em className="certDate">{achievements.date4}</em>
+            <br /><br /><h3>{achievements.event3}</h3><a className="certInfo" target="_blank" href={achievements.link3}>{achievements.title3}</a> <span className='certInfo'> &bull; </span><em className="certDate">{achievements.date3}</em>
             <br /><br /><h3>{achievements.event2}</h3><a className="certInfo" target="_blank" href={achievements.link2}>{achievements.title2}</a> <span className='certInfo'> &bull; </span><em className="certDate">{achievements.date2}</em>
             <br /><br /><h3>{achievements.event1}</h3><a className="certInfo" target="_blank" href={achievements.link1}>{achievements.title1}</a> <span className='certInfo'> &bull; </span><em className="certDate">{achievements.date1}</em>
             <p>{achievements.description}</p>
