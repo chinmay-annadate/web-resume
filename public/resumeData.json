@@ -64,10 +64,24 @@
     ],
     "work": [
       {
-        "company": "No work expereience so far",
-        "title": "Student",
-        "years": "June 2002 - Present",
-        "description": ""
+        "company": "K9 Realty",
+        "title": "Web Development Intern",
+        "years": "Nov 2023 - Present",
+        "description": "React JS"
+      },
+      {
+        "company": "Persistent Systems",
+        "title": "Summer Intern",
+        "years": "June 2023 - Aug 2023",
+        "description": "Linux, Data Structures, Algorithms, Database Management System (DBMS), Python"
+      }
+    ],
+    "por": [
+      {
+        "company": "LOL Coding Club",
+        "title": "President",
+        "years": "Aug 2023 - Present",
+        "description": "Human Resources (HR), Event Planning, Event Management, Live Events, Social Media Marketing, Administration, Project Management, Python (Programming Language), React.js, Flutter"
       }
     ],
     "achievements": [
@@ -76,17 +90,14 @@
         "title4": "1st Prize",
         "link4": "https://drive.google.com/file/d/1vdhAIq710yXBWm-xdrV7xIiKnRq_dufu/view?usp=sharing",
         "date4": "Sept 2023",
-
         "event3": "Second Year of B.Tech",
         "title3": "1st Rank",
         "link3": "https://drive.google.com/file/d/1ykZM9CEZk6fxnypDeGMWucjMB2t-F3c5/view?usp=sharing",
         "date3": "May 2023",
-
         "event2": "WITchar-23 - Cool Code (Programming Contest)",
         "title2": "Finalist",
         "link2": "https://drive.google.com/file/d/1yqGMkUyj3cMbjwRoS3fGViKXSweO_l85/view?usp=sharing",
         "date2": "May 2023",
-
         "event1": "WITech-2021 - E-Debate",
         "title1": "1st Prize",
         "link1": "https://drive.google.com/file/d/1NxXIJ0tsMi-Nbnnvf7D1RRffTtFZWFIh/view?usp=sharing",
@@ -150,37 +161,30 @@
     "projMan": [
       {
         "category": "Project Management",
-        
         "certification1": "Coursera",
         "years1": "January 2023",
         "description1": "Foundations of Project Management",
         "link1": "https://www.coursera.org/account/accomplishments/verify/JFR5BP399R5L",
-        
         "certification2": "Coursera",
         "years2": "March 2023",
         "description2": "Project Initiation: Staring a Successful Project",
         "link2": "https://www.coursera.org/account/accomplishments/verify/C9986K849H67",
-        
         "certification3": "Coursera",
         "years3": "March 2023",
         "description3": "Project Planning: Putting It All Together",
         "link3": "https://www.coursera.org/account/accomplishments/verify/RAK9QNZDJ9VP",
-        
         "certification4": "Coursera",
         "years4": "April 2023",
         "description4": "Project Execution: Running the Project",
         "link4": "https://www.coursera.org/account/accomplishments/verify/B8ZFJT4NM7W2",
-        
         "certification5": "Coursera",
         "years5": "May 2023",
         "description5": "Agile Project Management",
         "link5": "https://www.coursera.org/account/accomplishments/certificate/GC5B76JWBJPY",
-        
         "certification6": "Coursera",
         "years6": "May 2023",
         "description6": "Capstone: Applying Project Management in the Real World",
         "link6": "https://www.coursera.org/account/accomplishments/certificate/4AEZGYFMAGNE",
-
         "certification7": "Coursera",
         "years7": "May 2023",
         "description7": "Google Project Management",
@@ -239,12 +243,10 @@
         "years1": "November 2021",
         "description1": "Introduction to Cloud",
         "link1": "https://courses.cognitiveclass.ai/certificates/a26f4bbe0b4c4b71add4fbbbd6d53953",
-
         "certification2": "Infosys Wingspan",
         "years2": "February 2022",
         "description2": "Online masterclass on Assure with MS Azure Cloud",
         "link2": "https://drive.google.com/file/d/1TeKLnxdNb_PFE8_-FxWde6n-Is1jP-VA/view?usp=sharing",
-
         "certification3": "AWS Academy",
         "years3": "May 2023",
         "description3": "Cloud Foundations",
@@ -313,6 +315,12 @@
         "url": "https://campus-connect-324ef.web.app/#/"
       },
       {
+        "title": "Campus Connect",
+        "category": "A mobile application that serves as a platform where educational institutions can host virtual tours of their campus",
+        "image": "Campus Connect-logos.jpeg",
+        "url": "https://campus-connect-324ef.web.app/#/"
+      },
+      {
         "title": "Happy Birthday E-Mail Sender",
         "category": "A script that sends emails to Alumni of our college wishing them a happy birthday using SMTP, MIME and Google Sheets API",
         "image": "alumni project.png",
@@ -323,6 +331,46 @@
         "category": "A web-resume",
         "image": "web-resume.png",
         "url": "https://chinmay-web-resume.web.app/"
+      }
+    ],
+    "react": [
+      {
+        "title": "K9 Realty website",
+        "category": "Sponsored project for a realty company",
+        "image": "k9.png",
+        "url": "https://k9-realty-website.web.app/"
+      },
+      {
+        "title": "LOL Coding Club website",
+        "category": "Website for our college club",
+        "image": "lol website.png",
+        "url": "https://notes-app-f3ba9.web.app"
+      },
+      {
+        "title": "Web Resume",
+        "category": "A web-resume",
+        "image": "web-resume.png",
+        "url": "https://chinmay-web-resume.web.app/"
+      }
+    ],
+    "flutter": [
+      {
+        "title": "Campus Connect",
+        "category": "Virtual tour app",
+        "image": "Campus Connect-logos.jpeg",
+        "url": "https://play.google.com/store/apps/details?id=io.annadate.campus_connect"
+      },
+      {
+        "title": "LOL ID",
+        "category": "Wallet app for our college club IDs",
+        "image": "LOL-Badge-2.jpg",
+        "url": "https://play.google.com/store/apps/details?id=io.annadate.lol_id"
+      },
+      {
+        "title": "LOL ID Checker",
+        "category": "ID Checker and attendance logger app for our club",
+        "image": "LOL-Badge.jpg",
+        "url": "https://play.google.com/store/apps/details?id=io.annadate.lol_id_checker"
       }
     ]
   },
